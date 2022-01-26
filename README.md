@@ -1,4 +1,6 @@
 # telegramBot1
 
 SIMPLE TELEGRAM BOT 
-WHICH PLAYS A GAME WITH YOU
+Bot will think of some number and you should find the number that bot guessed.
+
+#Telegram API
